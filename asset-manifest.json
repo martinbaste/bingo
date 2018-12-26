@@ -1,0 +1,15 @@
+{
+  "main.css": "/bingo/static/css/main.5ea09f23.chunk.css",
+  "main.js": "/bingo/static/js/main.972a5e98.chunk.js",
+  "main.js.map": "/bingo/static/js/main.972a5e98.chunk.js.map",
+  "static/css/1.07f8c2f5.chunk.css": "/bingo/static/css/1.07f8c2f5.chunk.css",
+  "static/js/1.4fd2de64.chunk.js": "/bingo/static/js/1.4fd2de64.chunk.js",
+  "static/js/1.4fd2de64.chunk.js.map": "/bingo/static/js/1.4fd2de64.chunk.js.map",
+  "runtime~main.js": "/bingo/static/js/runtime~main.92310e24.js",
+  "runtime~main.js.map": "/bingo/static/js/runtime~main.92310e24.js.map",
+  "static/css/1.07f8c2f5.chunk.css.map": "/bingo/static/css/1.07f8c2f5.chunk.css.map",
+  "static/css/main.5ea09f23.chunk.css.map": "/bingo/static/css/main.5ea09f23.chunk.css.map",
+  "index.html": "/bingo/index.html",
+  "precache-manifest.23bd76cd74ace9cf5b330eceff945746.js": "/bingo/precache-manifest.23bd76cd74ace9cf5b330eceff945746.js",
+  "service-worker.js": "/bingo/service-worker.js"
+}
